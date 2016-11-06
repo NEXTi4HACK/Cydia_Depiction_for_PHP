@@ -6,6 +6,7 @@ Cydia用DebパッケージのDepictionを動的に作成するPHP
 使用方法
 -------------------------------
 packagesフォルダ内に対象となるパッケージのフォルダを作成(名称任意)
+
 sampleのinfo.xmlを書き換える
 ```
 <?xml version="1.0" encoding="UTF-8" ?>
