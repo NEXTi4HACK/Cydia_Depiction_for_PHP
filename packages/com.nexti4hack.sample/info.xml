@@ -1,37 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <package>
-	<id>com.nexti4hack.ooo</id>
-	<name>OOO Driver</name>
-	<version>1.1-8</version>
+	<id>com.nexti4hack.sample</id>
+	<name>Sample</name>
+	<version>1.0-0</version>
 	<descriptionlist>
-		<description>仮面ライダーOOO 変身アプリ</description>
+		<description>Sample用info.xml</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description></description>
-			<image>ooo-1.png</image>
-		</screenshot>
-		<screenshot>
-			<description></description>
-			<image>ooo-2.png</image>
-		</screenshot>
-		<screenshot>
-			<description></description>
-			<image>ooo-3.png</image>
-		</screenshot>
-		<screenshot>
-			<description></description>
-			<image>ooo-4.png</image>
+			<description>Image1</description>
+			<image>sample.png</image>
 		</screenshot>
 	</screenshots>
 	<changelogs>
 		<change>
-			<version>1.1-8(2012/11/18)</version>
-			<log>iOS 6 Support</log>
+			<version>0.0-9</version>
+			<log>Test fix</log>
 		</change>
 		<change>
-			<version>1.1-7(2011/12/18)</version>
-			<log>各種ロゴの追加</log>
+			<version>0.0-8</version>
+			<log>Test</log>
 		</change>
 	</changelogs>
 </package>
